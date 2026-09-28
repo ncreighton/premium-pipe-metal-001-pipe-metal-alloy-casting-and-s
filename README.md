@@ -1,0 +1,2 @@
+# premium-pipe-metal-001-pipe-metal-alloy-casting-and-s
+Tired of digging through scattered notebooks and spreadsheets to find that one casting date or alloy composition for your pipe metal project?  This Notion template centralizes all your casting and rolling data, from melt temperature to final sheet gauge, with automatic calculations and relational databases. No more guesswork or lost data. It's the
